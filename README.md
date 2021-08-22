@@ -6,7 +6,7 @@ Kada se tramvaj blokira, to može prouzrokovati složena kašnjenja u mreži tra
 povećava ukupnu gužvu na najprometnijim ulicama grada. 
 Biće korišćen javno dostupan skup podataka koji opisuje svako kašnjenje na koje se naišlo u sistemu tramvaja u Torontu od januara 2014. do kraja decembra 2017. godine
 
-“TTC Streetcar Delay Data"
+“TTC Streetcar Delay Data"  
 https://open.toronto.ca/dataset/ttc-streetcar-delay-data/
 
 u ovom projektu će biti korišćena logistička regresija i neuronske mreže.
