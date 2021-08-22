@@ -14,16 +14,16 @@ u ovom projektu će biti korišćena logistička regresija i neuronske mreže.
 Skup podataka je predstavljen XLS fajloviama za svaku godinu i XLS fajl od svake godine sadrži Sheet - ove za svaki mesec.
 U svakom sheet - u se nalazi tabela sa kolonama
 
-• Report Date
-• Route
-• Time
-• Day
-• Location
-• Incident
-• Min Delay
-• Min Gap
-• Direction
-• Vehicle
+• Report Date             
+• Route           
+• Time            
+• Day         
+• Location        
+• Incident            
+• Min Delay           
+• Min Gap           
+• Direction           
+• Vehicle         
 
 
 
