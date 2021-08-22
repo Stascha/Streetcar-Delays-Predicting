@@ -15,14 +15,23 @@ Skup podataka je predstavljen XLS fajloviama za svaku godinu i XLS fajl od svake
 U svakom sheet - u se nalazi tabela sa kolonama
 
 • Report Date
+
 • Route
+
 • Time
+
 • Day
+
 • Location
+
 • Incident
+
 • Min Delay
+
 • Min Gap
+
 • Direction
+
 • Vehicle
 
 
