@@ -5,3 +5,9 @@ Pored mnogih svojih prednosti u odnosu na druge načine prevoza, tramvajska mre�
 Kada se tramvaj blokira, to može prouzrokovati složena kašnjenja u mreži tramvaja i
 povećava ukupnu gužvu na najprometnijim ulicama grada. 
 Biće korišćen javno dostupan skup podataka koji opisuje svako kašnjenje na koje se naišlo u sistemu tramvaja u Torontu od januara 2014. do kraja decembra 2017. godine
+
+“TTC Streetcar Delay Data"
+https://open.toronto.ca/dataset/ttc-streetcar-delay-data/
+
+
+
