@@ -9,5 +9,26 @@ Biće korišćen javno dostupan skup podataka koji opisuje svako kašnjenje na k
 “TTC Streetcar Delay Data"
 https://open.toronto.ca/dataset/ttc-streetcar-delay-data/
 
+u ovom projektu će biti korišćena logistička regresija i neuronske mreže.
+
+Skup podataka je predstavljen XLS fajloviama za svaku godinu i XLS fajl od svake godine sadrži Sheet - ove za svaki mesec.
+U svakom sheet - u se nalazi tabela sa kolonama
+
+• Report Date
+• Route
+• Time
+• Day
+• Location
+• Incident
+• Min Delay
+• Min Gap
+• Direction
+• Vehicle
+
+
+
+
+
+
 
 
