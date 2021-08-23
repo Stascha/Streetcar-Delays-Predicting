@@ -42,7 +42,7 @@ There is a table with columns in each sheet
 • Neural networks
 
 ## References
-• Inspiration for the project: "Predicting Streetcar Delays" - Andrei Cheremukhin (http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26326178.pdf)
+• Inspiration for the project: "Predicting Streetcar Delays" - Andrei Cheremukhin  http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26326178.pdf
 
 ## Contact
 • stasarasic@gmail.com
