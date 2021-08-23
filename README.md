@@ -37,7 +37,7 @@ There is a table with columns in each sheet
 
 • Implementation is in Python 3.7.        
 • Code was written using Anaconda, The Jupyter Notebook.              
-• Other packages and libraries used: scikit-learn, Matplotlib, NumPy, pandas, tensorflow, Keras.          
+• Other packages and libraries used: Scikit-learn, Matplotlib, NumPy, Pandas, Tensorflow, Keras.          
 
 ## References
 • Inspiration for the project: "Predicting Streetcar Delays" - Andrei Cheremukhin  http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26326178.pdf
