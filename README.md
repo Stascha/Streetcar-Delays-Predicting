@@ -27,19 +27,17 @@ There is a table with columns in each sheet
 • Min Delay           
 • Min Gap           
 • Direction           
-• Vehicle         
+• Vehicle       
 
+## Used methods
+• Logistic regression                          
+• Neural networks
 
 ## Languages and technologies used
 
 • Implementation is in Python 3.7.        
 • Code was written using Anaconda, The Jupyter Notebook.              
 • Other packages and libraries used: scikit-learn, Matplotlib, NumPy, pandas, tensorflow, Keras.          
-
-
-## Used methods
-• Logistic regression 
-• Neural networks
 
 ## References
 • Inspiration for the project: "Predicting Streetcar Delays" - Andrei Cheremukhin  http://cs229.stanford.edu/proj2019aut/data/assignment_308832_raw/26326178.pdf
