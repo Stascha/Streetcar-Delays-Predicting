@@ -1,5 +1,7 @@
 # Predicting Streetcar Delays 
 
+## About The Project
+
 In this project I am going to solve a problem of predicting streetcar delays in Toronto,
 Canada. The problem to solve is how to predict delays in the streetcar system so they
 can be avoided. When a streetcar gets blocked, it can cause compound delays in the streetcar network and
