@@ -34,7 +34,7 @@ There is a table with columns in each sheet
 
 • Implementation is in Python 3.7.        
 • Code was written using Anaconda, The Jupyter Notebook.              
-• Other packages and libraries used: Matplotlib, NumPy, pandas, tensorflow, scikit-learn, Keras.          
+• Other packages and libraries used: scikit-learn, Matplotlib, NumPy, pandas, tensorflow, Keras.          
 
 
 ## Used methods
