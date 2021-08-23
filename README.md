@@ -1,10 +1,11 @@
 # Predicting Streetcar Delays 
 
-U ovom projektu će biti rešen problem predviđanja kašnjenja tramvaja u Torontu, Kanada tako da se kašnjenje može izbeći.  
-Pored mnogih svojih prednosti u odnosu na druge načine prevoza, tramvajska mreža ima i jedan veliki nedostatak.
-Kada se tramvaj blokira, to može prouzrokovati složena kašnjenja u mreži tramvaja i
-povećava ukupnu gužvu na najprometnijim ulicama grada. 
-Biće korišćen javno dostupan skup podataka koji opisuje svako kašnjenje na koje se naišlo u sistemu tramvaja u Torontu od januara 2014. do kraja decembra 2017. godine
+In this project I am going to solve a problem of predicting streetcar delays in Toronto,
+Canada. The problem to solve is how to predict delays in the streetcar system so they
+can be avoided. When a streetcar gets blocked, it can cause compound delays in the streetcar network and
+contribute to overall gridlock on the city’s busiest streets. 
+I am going to use a publicly available dataset that describes every delay encountered in the
+streetcar system in Toronto since January 2014.
 
 “TTC Streetcar Delay Data"  
 https://open.toronto.ca/dataset/ttc-streetcar-delay-data/
